@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Help full links
+
+- [Setup project with github actions](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
 
 ## Getting Started
 
