@@ -1,6 +1,7 @@
 ## Help full links
 
-- [Setup project with github actions](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
+- [Setup project with GitHub actions](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
+- [Configure and work with images on GitHub Pages](https://github.com/gregrickaby/nextjs-github-pages?tab=readme-ov-file)
 
 ## Getting Started
 
